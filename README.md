@@ -1,8 +1,8 @@
-##  Integrating Typscript with Graphql using Type-Graphl, a modern framework for building Graphql Node JS APIs
+# Integrating Typscript with Graphql using Type-Graphl, a modern framework for building Graphql Node JS APIs
 
-# To compile the application, run `npm run build-ts`
+### To compile the application, run `npm run build-ts`
 
-# To start the server, run `npm start`
+### To start the server, run `npm start`
 
 ## Dependencies
 
@@ -11,7 +11,7 @@
  - Apollo-server-express, `apollo-server-express`, A library for quickly bootstrapping graphql servers with Apollo and Express
   
 
-  # For a note on other dependencies, please have a look at the package.json file. 
+  ### For a note on other dependencies, please have a look at the `package.json` file. 
 
 
   Note: Run `npm install` to install all the projects dependencies...
