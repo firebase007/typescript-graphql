@@ -1,7 +1,2 @@
-
-
-
 MONGODB_URI_LOCAL=mongodb://localhost:27017/<database>
-
-
 PORT=3333

@@ -3,11 +3,12 @@ import Express from "express";
 import "reflect-metadata";
 import { buildSchema } from "type-graphql";
 import { connect } from "mongoose";
+
+
 import {UserResolver} from "./resolvers/User";
 import {ProductResolver} from "./resolvers/Product";
 import {CategoriesResolver} from "./resolvers/Categories";
 import {CartResolver} from "./resolvers/Cart";
-
 import {OrderResolver} from "./resolvers/Order";
 
 
